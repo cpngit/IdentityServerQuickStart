@@ -1,0 +1,14 @@
+C:\cpngit\itrefer\src\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\cpngit\itrefer\src\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\cpngit\itrefer\src\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\cpngit\itrefer\src\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\cpngit\itrefer\src\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\cpngit\itrefer\src\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\cpngit\itrefer\src\Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\cpngit\itrefer\src\Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\cpngit\itrefer\src\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+C:\cpngit\itrefer\src\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\cpngit\itrefer\src\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\cpngit\itrefer\src\Client\obj\Debug\netcoreapp3.1\Client.csproj.CopyComplete
+C:\cpngit\itrefer\src\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\cpngit\itrefer\src\Client\obj\Debug\netcoreapp3.1\Client.pdb
